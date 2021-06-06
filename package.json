@@ -1,5 +1,6 @@
 {
   "name": "car-notes",
+  "type": "module",
   "version": "1.0.0",
   "description": "car maintenance",
   "main": "index.js",
